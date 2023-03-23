@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: c698e9f7ae4df4e4e8f3cfb0274cc4d8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BatteryPack
+    100004: Dial
+    100006: DialMount
+    100008: FrontLens
+    100010: FrontLensCover_000
+    100012: FrontLensCover_001
+    100014: InnerBody
+    100016: LeftBolt
+    100018: LensCoverMount
+    100020: LensCoverMount_002
+    100022: OuterBody
+    100024: RearLens
+    100026: RedDot
+    100028: RightBolt
+    100030: ScopeArm
+    400000: //RootNode
+    400002: BatteryPack
+    400004: Dial
+    400006: DialMount
+    400008: FrontLens
+    400010: FrontLensCover_000
+    400012: FrontLensCover_001
+    400014: InnerBody
+    400016: LeftBolt
+    400018: LensCoverMount
+    400020: LensCoverMount_002
+    400022: OuterBody
+    400024: RearLens
+    400026: RedDot
+    400028: RightBolt
+    400030: ScopeArm
+    2100000: cap
+    2100002: LensTexture__AIMPOINT_2MOA_png
+    2100004: crosshair__APDotSightCrosshair_p
+    2100006: dial
+    2100008: arm
+    2100010: scope
+    2100012: scope__APDotSightUVFinal_png
+    2100014: silver
+    2300000: BatteryPack
+    2300002: Dial
+    2300004: DialMount
+    2300006: FrontLens
+    2300008: FrontLensCover_000
+    2300010: FrontLensCover_001
+    2300012: InnerBody
+    2300014: LeftBolt
+    2300016: LensCoverMount
+    2300018: LensCoverMount_002
+    2300020: OuterBody
+    2300022: RearLens
+    2300024: RedDot
+    2300026: RightBolt
+    2300028: ScopeArm
+    2300030: //RootNode
+    3300000: BatteryPack
+    3300002: Dial
+    3300004: DialMount
+    3300006: FrontLens
+    3300008: FrontLensCover_000
+    3300010: FrontLensCover_001
+    3300012: InnerBody
+    3300014: LeftBolt
+    3300016: LensCoverMount
+    3300018: LensCoverMount_002
+    3300020: OuterBody
+    3300022: RearLens
+    3300024: RedDot
+    3300026: RightBolt
+    3300028: ScopeArm
+    3300030: //RootNode
+    4300000: FrontLensCover_000
+    4300002: FrontLensCover_001
+    4300004: FrontLens
+    4300006: RearLens
+    4300008: RedDot
+    4300010: BatteryPack
+    4300012: RightBolt
+    4300014: LeftBolt
+    4300016: ScopeArm
+    4300018: LensCoverMount_002
+    4300020: LensCoverMount
+    4300022: Dial
+    4300024: DialMount
+    4300026: OuterBody
+    4300028: InnerBody
+    4300030: Collimator_sight
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Collimator_sight
+    second: {fileID: 2100000, guid: 96592546c2cd2d84c9df428ea0eb884a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

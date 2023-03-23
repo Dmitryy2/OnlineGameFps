@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 6f1f3e868a636244ab6062d21182dd79
+timeCreated: 1516543794
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: L96_Sniper_Rifle
+    100006: L96_Sniper_Rifle.001
+    100008: Lamp
+    100010: L96 Mag
+    100012: L96 Rifle
+    100014: Lense
+    100016: L96 Lense
+    400000: //RootNode
+    400002: Camera
+    400004: L96_Sniper_Rifle
+    400006: L96_Sniper_Rifle.001
+    400008: Lamp
+    400010: L96 Mag
+    400012: L96 Rifle
+    400014: Lense
+    400016: L96 Lense
+    2000000: Camera
+    2100000: L96_Sniper_Rifle
+    2300000: //RootNode
+    2300002: L96_Sniper_Rifle
+    2300004: L96_Sniper_Rifle.001
+    2300006: L96 Mag
+    2300008: L96 Rifle
+    2300010: Lense
+    2300012: L96 Lense
+    3300000: //RootNode
+    3300002: L96_Sniper_Rifle
+    3300004: L96_Sniper_Rifle.001
+    3300006: L96 Mag
+    3300008: L96 Rifle
+    3300010: Lense
+    3300012: L96 Lense
+    4300000: L96_Sniper_Rifle
+    4300002: L96_Sniper_Rifle.001
+    4300004: L96 Mag
+    4300006: Lense
+    4300008: L96 Rifle
+    4300010: L96 Lense
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L96_Sniper_Rifle
+    second: {fileID: 2100000, guid: c99e3adc91279114fbbb26b30f8e4de2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
